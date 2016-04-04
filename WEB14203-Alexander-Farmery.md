@@ -12,7 +12,7 @@
 
 ### Introduction
 
-Searchstagram is a collaborative project and an attempt at creating an application allowing users to find & analyze the impact of their tweets. We aim to create the possibility for businesses to anaylze what social media marketing techniques work and those impacting their possible growth. Aiming this at start-ups and businesses not able to spend money on larger companies offering a similar service
+Searchstagram is a collaborative project and an attempt at creating an application allowing users to find & analyze UGC posted from instagram
 
 ##### Research
 
